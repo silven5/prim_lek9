@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "kanbanfire-bedf1": {
+      "hosting": {
+        "app": [
+          "kanbanfire-bedf1"
+        ]
+      }
+    }
+  }
+}
